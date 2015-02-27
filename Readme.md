@@ -1,4 +1,4 @@
-[![Build Status](https://apibeta.shippable.com/projects/547e9df6c2b9a03657603ef3/badge?branchName=master)](https://appbeta.shippable.com/projects/547e9df6c2b9a03657603ef3/builds/latest)
+[![Build Status](https://apibeta.shippable.com/projects/54ef050a91426fd6a7908c04/badge?branchName=master)](https://appbeta.shippable.com/projects/54ef050a91426fd6a7908c04/builds/latest)
 
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
 
